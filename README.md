@@ -49,3 +49,17 @@ https://github.com/pi-apps/pi-explorer/tree/master/src/languages
 
 Submit pull requests with new languages or languages fixes if you like.
 
+## AI Coding Assistance
+
+Nowa funkcja! / New Feature! AI coding assistants like GitHub Copilot can significantly help with developing this blockchain explorer. 
+
+📋 **See our comprehensive guide**: [AI_CODING_GUIDE.md](./AI_CODING_GUIDE.md)
+
+The guide includes:
+- Specific examples for React blockchain development
+- Help with Stellar SDK integration
+- Testing strategies
+- Internationalization support
+- Code modernization tips
+- Available in English and Polish (Dostępne w języku angielskim i polskim)
+
